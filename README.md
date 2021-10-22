@@ -1,11 +1,5 @@
 # <h2> Olá! Eu sou o Mateus Gonzales! 👋</h2>
 
-- 🔭 Atualmente sou estagiário do Ministério de Ciência e Tecnologia
-- 🌱 Estou faazendo um curso para desenvolvedor FullStack
-- 👯 Pretendo trabalhar em projetos Front-end
-- 📫 E-mail: mateusmgc@hotmail.com
-- 😄 Pronouns: Ele / Dele
-
 <div>
   <a href="https://github.com/mateusgonzales">
   <img aligne="center" height="150cm" src="https://github-readme-stats.vercel.app/api?username=mateusgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />

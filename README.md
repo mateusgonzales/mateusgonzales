@@ -1,4 +1,4 @@
-# <h2> Olá! Eu sou o Mateus Gonzales! 👋</h2>
+## Olá! Eu sou o Mateus Gonzales! 👋
 
 <div>
   <a href="https://github.com/mateusgonzales">

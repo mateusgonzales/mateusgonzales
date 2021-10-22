@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/mateusgonzales">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=mateusgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgonzales&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgonzales&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <hr>
 <div>

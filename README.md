@@ -10,13 +10,10 @@
 ##  
   
 <div>
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" /> 
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-  <img aligne="center" height="40" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img aligne="center" height="40" widght="40" src="https://play-lh.googleusercontent.com/UeiCnTGunCg4qcuBpFoVqG1DgJZqDsnW2CfY5lldp5ZfcQfr65yKTD53V7ug0kaV48g=w600-h300-pc0xffffff-pd" /> 
+  <img aligne="center" height="40" widght="40" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" /> 
+  <img aligne="center" height="40" widght="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /> 
+  <img aligne="center" height="40" widght="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 </div>
 
 <hr>

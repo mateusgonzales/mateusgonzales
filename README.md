@@ -3,8 +3,10 @@
 <div>
   <a href="https://github.com/mateusgonzales">
     <img aligne="center" height="130cm" src="https://github-readme-stats.vercel.app/api?username=mateusgonzales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a>
-  <a href="https://github.com/mateusgonzales">
-    <img aligne="center" height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgonzales&layout=compact&langs_count=16&theme=tokyonight"/></a>
+<div>
+<div>
+ <a href="https://github.com/mateusgonzales">
+    <img aligne="center" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgonzales&layout=compact&langs_count=16&theme=tokyonight"/></a>
 </div>
 
 ##  

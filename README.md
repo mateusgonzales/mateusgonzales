@@ -12,9 +12,9 @@
 ##  
   
 <div>
-  <img aligne="center" height="40" widght="40" src="https://play-lh.googleusercontent.com/UeiCnTGunCg4qcuBpFoVqG1DgJZqDsnW2CfY5lldp5ZfcQfr65yKTD53V7ug0kaV48g=w600-h300-pc0xffffff-pd" /> 
-  <img aligne="center" height="40" widght="40" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" /> 
-  <img aligne="center" height="40" widght="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /> 
+  <img aligne="center" height="40" widght="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwYy6IFqU6wbwxTokhIbJw5fj7RELRp4VLEyzRoM&s" /> 
+  <img aligne="center" height="40" widght="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4qQpsjvEV786rJ9a5aVZlZbPLmrsVgFN28XVlTc&s" /> 
+  <img aligne="center" height="40" widght="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQgvuLK-05_THGgo3dJ6HgDypqZNN9Uf3LKj_8bBhOGA&s" /> 
   <img aligne="center" height="40" widght="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 </div>
 
